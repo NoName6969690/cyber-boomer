@@ -1,2 +1,7 @@
-# cyber-boomer
-The ultimate Instagram and Facebook hacking tool.
+# Cyber Boomer
+ The ultimate Instagram and Facebook hacking tool.
+```
+Commands -
+chmod +x *
+./install.sh
+```
